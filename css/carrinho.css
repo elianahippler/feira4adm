@@ -295,7 +295,7 @@ body{
             line-height: 26px;
         }
 
-    .voltar{
+    .voltar, .imprimir2via{
         background-color: transparent;
         border: 2px solid #ff7300;
         box-shadow: 2px 2px 8px #00000042;
@@ -303,25 +303,33 @@ body{
         height: 40px;
         border-radius: 50%;
         margin: auto;
-        display: block;
+        display: inline-block;
         margin-top: 35px;
         margin-bottom: 10px;
     }
 
-        .voltar:hover{
+    .voltar{
+        margin-left: 320px;
+    }
+
+    .imprimir2via{
+        margin-left: 10px;
+    }
+
+        .voltar:hover, .imprimir2via:hover{
             cursor: pointer;
             background-color: #fcb51d;
             border: 2px solid  #f89616;
             box-shadow: 2px 2px 8px #00000050;
         }
 
-        .voltar:active{
+        .voltar:active, .imprimir2via:active{
             background-color: #fc891d;
             border: 2px solid  #f88316;;
             box-shadow: 2px 2px 8px #0000007c;
         }
 
-    .voltar img{
+    .voltar img, .imprimir2via img{
         width: 25px;
         height: 25px;
     }

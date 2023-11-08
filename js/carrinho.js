@@ -197,6 +197,10 @@ function imprimirPedido(){
     window.print();
 }
 
+function imprimir2via(){
+    window.print();
+}
+
 const agora = new Date();
 
 const dataFormatada = `${agora.getDate().toString().padStart(2, '0')}/${(agora.getMonth() + 1).toString().padStart(2, '0')}/${agora.getFullYear()}`;
