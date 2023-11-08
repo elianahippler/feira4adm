@@ -98,7 +98,7 @@ function atualizarCarrinho() {
                 <button class="btnadd" onclick="adicionarAoCarrinho(${val.id})" id="botao-${val.id}">+</button>
                 <p class="quantidade-no-carrinho">${val.quantidade}</p>
                 <button class="btnrmv" onclick="removerDoCarrinho(${val.id})">-</button>
-                <p class="precoprodutocarrinho">R$ ${val.preco.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}(un)</p>
+                <p class="precoprodutocarrinho">R$ ${val.preco.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}</p>
                 <div style="clear:both;"></div>
             </div>`;
         }

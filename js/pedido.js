@@ -6,7 +6,7 @@ const lanches = [
 ];
 
 const bebidas = [
-    {id: 4, nome: 'Pão de alho artesanal', img: '../feira4adm/imagens/produtos/paodealho.jpg', preco: 0.00, quantidade: 0},
+    {id: 4, nome: 'Pão de alho artesanal', img: '../feira4adm/imagens/produtos/paodealho.jpg', preco: 8.00, quantidade: 0},
     {id: 5, nome: 'Mandioca', img: '../feira4adm/imagens/produtos/mandioca.jpg', preco: 0.00, quantidade: 0},
     {id: 6, nome: 'Farofa', img: '../feira4adm/imagens/produtos/farofa.jpg', preco: 0.00, quantidade: 0},
 ];
