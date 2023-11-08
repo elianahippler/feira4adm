@@ -238,9 +238,9 @@ body{
     float: right;
     width: 55%;
     display: block;
-    /*opacity: 0;
+    opacity: 0;
     transform: translateX(300px);
-    transition: opacity 2s ease, transform 0.7s ease;*/
+    transition: opacity 2s ease, transform 0.7s ease;
 }
 
     .numpedido{
