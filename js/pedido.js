@@ -1,8 +1,8 @@
 const lanches = [
-    {id: 0, nome: 'Carne Bovina', img: '../feira4adm/imagens/produtos/carnebovina.jpg', preco: 8.00, quantidade: 0},
-    {id: 1, nome: 'Medalhão', img: '../feira4adm/imagens/produtos/medalhao.jpg', preco: 8.00, quantidade: 0},
-    {id: 2, nome: 'Frango', img: '../feira4adm/imagens/produtos/frango.jpg', preco: 8.00, quantidade: 0},
-    {id: 3, nome: 'Linguiça', img: '../feira4adm/imagens/produtos/linguica.jpg', preco: 8.00, quantidade: 0},
+    {id: 0, nome: 'Carne Bovina', img: '../feira4adm/imagens/produtos/carnebovina.jpg', preco: 6.00, quantidade: 0},
+    {id: 1, nome: 'Medalhão', img: '../feira4adm/imagens/produtos/medalhao.jpg', preco: 6.00, quantidade: 0},
+    {id: 2, nome: 'Frango', img: '../feira4adm/imagens/produtos/frango.jpg', preco: 6.00, quantidade: 0},
+    {id: 3, nome: 'Linguiça', img: '../feira4adm/imagens/produtos/linguica.jpg', preco: 6.00, quantidade: 0},
 ];
 
 const bebidas = [
@@ -13,7 +13,7 @@ const bebidas = [
 
 const doces = [
     {id: 7, nome: 'Suco de Laranja', img: '../feira4adm/imagens/produtos/sucodelaranja.jpg', preco: 5.00, quantidade: 0},
-    {id: 8, nome: 'Água com gás', img: '../feira4adm/imagens/produtos/aguagas.jpg', preco: 3.00, quantidade: 0},
+    {id: 8, nome: 'Água com gás', img: '../feira4adm/imagens/produtos/aguagas.jpg', preco: 4.00, quantidade: 0},
     {id: 9, nome: 'Água sem gás', img: '../feira4adm/imagens/produtos/aguagas.jpg', preco: 3.00, quantidade: 0},
 ];
 
